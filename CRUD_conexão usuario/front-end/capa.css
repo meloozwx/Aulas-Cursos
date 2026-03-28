@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(28, 38, 99);
+}
+
+.Cabeça{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}
+#Formulario_cab{
+
+    color: white;
+
+}
+
+#formulário{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+fieldset{
+    padding: 50px;
+}
+
+.form_area{
+    color: white;
+}
