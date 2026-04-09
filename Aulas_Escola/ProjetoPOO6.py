@@ -61,4 +61,4 @@ print("---- Monte seu Personagem ----")
 p1 = escolher_posicao()
 print(f"Meu nome é {p1.nome},tenho {p1.idade} anos e jogo na posição de {p1.posicao}!")
 
-###
+######

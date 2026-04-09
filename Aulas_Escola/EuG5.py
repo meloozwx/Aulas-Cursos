@@ -35,4 +35,3 @@ def Escola():
             print("Escolha uma opção valida!")
             return Escola()
 Escola()
-

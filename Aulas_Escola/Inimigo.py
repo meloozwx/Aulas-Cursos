@@ -16,4 +16,4 @@ class Inimigo:
         def Hab(Inimigo):
             super().__init__(self, nome, vida, ataque, defesa)
         
-        ####
+###

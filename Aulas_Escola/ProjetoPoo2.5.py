@@ -15,3 +15,4 @@ class Hotel:
 
 h = Hotel()
 print(h.desc())
+###
